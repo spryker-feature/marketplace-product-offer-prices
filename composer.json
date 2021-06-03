@@ -1,26 +1,26 @@
 {
-  "name": "spryker-feature/marketplace-product-offer-prices",
-  "description": "Marketplace Product Offer Prices [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/price-product-offer": "^0.6.0",
-    "spryker/price-product-offer-data-import": "^0.6.0",
-    "spryker/price-product-offer-gui": "^0.1.0",
-    "spryker/price-product-offer-storage": "^0.8.0",
-    "spryker/price-product-offer-volume": "^0.1.0",
-    "spryker/price-product-offer-volume-gui": "^0.1.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202009.x-dev"
+    "name": "spryker-feature/marketplace-product-offer-prices",
+    "description": "Marketplace Product Offer Prices [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/price-product-offer": "^0.8.0",
+        "spryker/price-product-offer-data-import": "^0.6.0",
+        "spryker/price-product-offer-gui": "^0.1.0",
+        "spryker/price-product-offer-storage": "^0.10.0",
+        "spryker/price-product-offer-volume": "^0.1.0",
+        "spryker/price-product-offer-volume-gui": "^0.2.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/marketplace-product-offer": "Recommended feature dependency.",
+        "spryker-feature/prices": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/marketplace-product-offer": "Recommended feature dependency.",
-    "spryker-feature/prices": "Recommended feature dependency."
-  }
 }
