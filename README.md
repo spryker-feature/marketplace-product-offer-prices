@@ -16,3 +16,6 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [PriceProductOfferStorageExtension ^0.1.0](https://github.com/spryker/price-product-offer-storage-extension) (Extension)
+- [PriceProductOfferVolumesRestApi ^0.1.0](https://github.com/spryker/price-product-offer-volumes-rest-api) (Glue)
+- [ProductOfferPricesRestApi ^0.4.0](https://github.com/spryker/product-offer-prices-rest-api) (Glue)
+- [ProductOfferPricesRestApiExtension ^0.1.0](https://github.com/spryker/product-offer-prices-rest-api-extension) (Extension)
