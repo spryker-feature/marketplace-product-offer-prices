@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Product Offer Prices
 
-
+With the Marketplace Product Offer Prices feature, a marketplace Merchants can define custom prices for product offers.
 
 ## Installation
 
