@@ -7,6 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.3",
+        "spryker/price-product": "^4.31.0",
         "spryker/price-product-offer": "^0.9.0",
         "spryker/price-product-offer-data-import": "^0.6.6",
         "spryker/price-product-offer-gui": "^0.1.1",
