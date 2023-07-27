@@ -2,6 +2,8 @@
 
 With the Marketplace Product Offer Prices feature, a marketplace Merchants can define custom prices for product offers.
 
+[Learn more](https://docs.spryker.com/docs/marketplace/dev/feature-walkthroughs/202307.0/marketplace-product-offer-prices-feature-walkthrough.html)
+
 ## Installation
 
 ```
