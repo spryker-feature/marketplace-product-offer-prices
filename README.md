@@ -20,5 +20,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [PriceProductOfferExtension ^1.0.0](https://github.com/spryker/price-product-offer-extension) (Extension)
 - [PriceProductOfferStorageExtension ^1.0.0](https://github.com/spryker/price-product-offer-storage-extension) (Extension)
 - [PriceProductOfferVolumesRestApi ^1.0.0](https://github.com/spryker/price-product-offer-volumes-rest-api) (Legacy Glue)
-- [ProductOfferPricesRestApi ^2.1.0](https://github.com/spryker/product-offer-prices-rest-api) (Legacy Glue)
+- [ProductOfferPricesRestApi ^2.2.0](https://github.com/spryker/product-offer-prices-rest-api) (Legacy Glue)
 - [ProductOfferPricesRestApiExtension ^1.0.0](https://github.com/spryker/product-offer-prices-rest-api-extension) (Extension)
