@@ -12,13 +12,13 @@
         "spryker/price": "^5.7.0",
         "spryker/price-product": "^4.44.0",
         "spryker/price-product-data-import": "^0.1.0",
-        "spryker/price-product-offer": "^1.6.0",
+        "spryker/price-product-offer": "^1.7.0",
         "spryker/price-product-offer-data-import": "^0.7.0",
         "spryker/price-product-offer-gui": "^1.2.0",
-        "spryker/price-product-offer-storage": "^1.3.0",
+        "spryker/price-product-offer-storage": "^1.4.0",
         "spryker/price-product-offer-volume": "^1.0.0",
         "spryker/price-product-offer-volume-gui": "^1.0.0",
-        "spryker/price-product-storage": "^4.9.0",
+        "spryker/price-product-storage": "^4.10.0",
         "spryker/price-product-volume": "^3.5.0"
     },
     "extra": {
