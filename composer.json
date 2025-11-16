@@ -14,7 +14,7 @@
         "spryker/price-product-data-import": "^0.1.0",
         "spryker/price-product-offer": "^1.7.0",
         "spryker/price-product-offer-data-import": "^0.7.0",
-        "spryker/price-product-offer-gui": "^1.2.0",
+        "spryker/price-product-offer-gui": "^2.0.0",
         "spryker/price-product-offer-storage": "^1.5.0",
         "spryker/price-product-offer-volume": "^1.0.0",
         "spryker/price-product-offer-volume-gui": "^1.0.0",
@@ -23,7 +23,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202510.x-dev"
         }
     },
     "suggest": {
